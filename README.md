@@ -49,7 +49,7 @@ This dashboard provides the clarity needed to:
 # Insight 1
 **TrendyCart’s growth is driven by first-time buyers, not repeat customers**
 
- <img width="569" height="407" alt="image" src="https://github.com/user-attachments/assets/59a2cf21-2937-472e-8c6f-6d9a9f86968d" />
+<img width="370" height="265" alt="image" src="https://github.com/user-attachments/assets/68c142b5-8b53-46af-8f95-d62f715ebc2c" />
 
 
 The volume of new customers is significantly higher than returning customers, while the repeat purchase rate remains low. 
