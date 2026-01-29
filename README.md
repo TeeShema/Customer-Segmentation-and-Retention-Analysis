@@ -85,7 +85,7 @@ On confirmation and thank-you pages, showcase complementary products to drive ba
 # Insight 2
 **Revenue contribution is highly concentrated among repeat buyers**
 
-<img width="958" height="921" alt="image" src="https://github.com/user-attachments/assets/a572bc67-7286-45db-9e3d-c5b2228cb390" />
+<img width="400" height="380" alt="image" src="https://github.com/user-attachments/assets/a572bc67-7286-45db-9e3d-c5b2228cb390" />
 
 Frequent Buyers contribute the highest revenue.
 Although repeat customers make up a smaller share of the customer base, they contribute a large share of total revenue.
@@ -102,7 +102,7 @@ Losing even a small number of loyal customers would have a greater revenue impac
 # Insight 3
 **Clear behavioral differences exist between loyal, new, and at-risk customers**
  
-<img width="1002" height="819" alt="image" src="https://github.com/user-attachments/assets/ac8d985a-4b8c-4844-b857-ee6151992ae9" />
+<img width="400" height="380" alt="image" src="https://github.com/user-attachments/assets/ac8d985a-4b8c-4844-b857-ee6151992ae9" />
 
 
 At-Risk and Need Attention groups are large: Combined, they make up 824 customers, signaling significant disengagement or early signs of churn.
@@ -132,9 +132,9 @@ Applying the same marketing strategy across all segments leads to wasted spend a
 # Insight 4
 **Early Behavior Signals Churn: One-Time Purchases and High-Risk RFM Segments**
 
-<img width="854" height="541" alt="image" src="https://github.com/user-attachments/assets/c30b89a1-34c3-49a7-90f6-653df3c84fa8" />
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/c30b89a1-34c3-49a7-90f6-653df3c84fa8" />
 
-<img width="915" height="860" alt="image" src="https://github.com/user-attachments/assets/115b760c-d9b1-417c-8220-ed0bd6b41105" />
+<img width="400" height="380" alt="image" src="https://github.com/user-attachments/assets/115b760c-d9b1-417c-8220-ed0bd6b41105" />
 
  
 
@@ -168,7 +168,7 @@ Proactive retention instead of reactive win-back efforts.
 # Insight 5
 **Repeat Purchase Behavior Is the Key Driver of Customer Retention**
 
-<img width="786" height="494" alt="image" src="https://github.com/user-attachments/assets/2cfaa2d3-3931-4994-ab31-a10db087e822" />
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/2cfaa2d3-3931-4994-ab31-a10db087e822" />
 
 
 Customer retention is strongly driven by repeat purchase behavior, but while high-value and loyal segments remain stable, overall retention has not fully recovered to previous levels, signaling untapped repeat purchase potential in mid-tier segments.
@@ -189,7 +189,7 @@ Retention strength varies sharply by RFM segment:
 
 Retention rate is recovering but remains fragile.
 
-<img width="1242" height="694" alt="image" src="https://github.com/user-attachments/assets/2befae2a-4542-45a6-98e0-c64eb1e72bf0" />
+<img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/2befae2a-4542-45a6-98e0-c64eb1e72bf0" />
 
 
 
@@ -201,7 +201,7 @@ The slow recovery suggests that while loyal customers are being retained, new an
 # Insight 6
 **Retention Is Driven More by Post-Acquisition Engagement Than Acquisition Channel**
 
-<img width="1008" height="754" alt="image" src="https://github.com/user-attachments/assets/12815144-501b-447a-a49c-fdad35c49b58" />
+<img width="400" height="380" alt="image" src="https://github.com/user-attachments/assets/12815144-501b-447a-a49c-fdad35c49b58" />
 
 
 Retention rates are remarkably similar across acquisition channels, with only a narrow range between the highest (Social Media & Email at 32%) and the lowest (Organic & Paid Ads at 28%). 
