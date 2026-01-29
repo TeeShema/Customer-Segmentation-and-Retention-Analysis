@@ -2,7 +2,7 @@
 This project analyzes customer behavior to uncover retention challenges and segment users based on purchasing patterns using the RFM (Recency, Frequency, Monetary) model.  
 Key performance metrics including churn rate, retention rate, and customer lifetime value were derived to assess engagement levels.
 
-<img width="905" height="885" alt="image" src="https://github.com/user-attachments/assets/df3979e7-f560-4fc0-9cd4-801e9a81151d" />
+<img width="1299" height="1259" alt="Page 1 (1)" src="https://github.com/user-attachments/assets/b7dbecaa-5c5a-4e66-a047-88c750101a59" />
 
 
 **TABLE OF CONTENTS**
